@@ -22,8 +22,8 @@
 
 ### Social
 - [Women in Tech Slack](http://womenintech.slack.com)
-  ^Check out #job-board, #job-career, #job-resumes, #job-talkpay
-  There are a lot of channels and this slack is on the free plan so there may not be much scroll back in here. Join the channels and you’ll see when people are active.
+  > Check out #job-board, #job-career, #job-resumes, #job-talkpay
+  > There are a lot of channels and this slack is on the free plan so there may not be much scroll back in here. Join the channels and you’ll see when people are active.
  
 ### Sites
 - [Fearless Salary Negotiation](https://fearlesssalarynegotiation.com/)
