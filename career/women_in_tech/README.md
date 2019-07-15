@@ -10,6 +10,7 @@
 - [Salary Negotiation Success Stores](https://www.askamanager.org/2019/06/share-your-salary-negotiation-success-stories.html)
 - [Salary Negotiation - Jessica Willimas](https://www.theriveter.co/voice/guest-blog-salary-negotiation)
 - [A Beginner's Guide to Negotiating Salary for Women in Tech](https://medium.com/product-popcorn/a-beginners-guide-to-negotiating-salary-for-women-in-tech-83ca40733d04)
+- [Startup Equity Basics](https://humaninterest.com/blog/startup-equity-basics-ask-stock-accept/)
 
 ### Studies 
 - [Gender Pay Gap Study](https://www.glassdoor.com/research/studies/gender-pay-gap/)
