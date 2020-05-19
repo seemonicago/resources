@@ -30,4 +30,5 @@
 - [Fearless Salary Negotiation](https://fearlesssalarynegotiation.com/)
 - [Equity Compensation Guide](https://www.holloway.com/g/equity-compensation)
 - [Global Compensation Calculator](https://about.gitlab.com/handbook/people-operations/global-compensation/calculator/)
+- [Salary Comparison Across Companies](https://www.levels.fyi/)
 - [Jessica Williams Consultant](https://ontherisesolutions.com/)
